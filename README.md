@@ -1,1 +1,1 @@
-# ONLINE-HOSTEL-OUT-PASS-REQUEST-AND-MANANGE--MENT-SYSTEM
+Online-Hostel-Outpass-Management-System
